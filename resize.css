@@ -58,13 +58,7 @@ label svg {
     justify-content: space-between;
 }
 
-.image_box {
-    width: 45%;
-}
 
-img {
-    width: 100%;
-}
 
 .image_name {
     display: block;
